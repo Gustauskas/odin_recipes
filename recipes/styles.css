@@ -1,3 +1,8 @@
+/* CEPELINAI PAGE */
+.cep-all {
+    text-align: center;
+}
+
 .description {
     color: darkkhaki;
 }
@@ -6,15 +11,43 @@
     background-color: blanchedalmond;
     width: 110px;
     color: darkgreen;
+    margin: 0 auto;
+    margin-bottom: 5px;
 }
 
 .list1 {
     background-color: black;
     color: white;
     width: 125px;
+    margin: 0 auto;
 }
 
 #list {
     background-color: darkgrey;
     color:wheat;
+    margin: 0 auto;
+    width: 150px;
+}
+
+/*MAKARONAI PAGE */
+
+body {
+    background-color: darkslategrey;
+}
+
+.mac-all {
+    text-align: center;
+}
+
+.list-1 {
+    margin: 0 auto;
+    width: 150px;
+    background-color: beige;
+}
+
+.list-2 {
+    margin: 0 auto;
+    width: 150px;
+    background-color: beige;
+    margin-top: 25px;
 }
